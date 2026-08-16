@@ -22,7 +22,9 @@ The dashboard is designed to answer:
 
 ## Attachment
 1. Dataset
-2. Power BI Workflow and
-3. Dashboard screenshot
+2. Power BI Workflow
+3. Business report
+4. PowerPoint presentation and
+5. Dashboard screenshot
 
 
